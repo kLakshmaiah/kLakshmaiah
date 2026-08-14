@@ -25,7 +25,7 @@
 
 ### 🚀 About Me
 
-- 💼 Full Stack .NET Developer with **~3–4 years of experience**
+- 💼 Full Stack .NET Developer with **~3 plus years of experience**
 - 🖥️ Experienced in building both **Desktop** and **Web** applications
 - 🏗️ Comfortable across the stack — from database-first, stored-procedure-centric backends to modern JS frontends
 - 🌱 Currently sharpening skills in Azure, WPF, and microservices
